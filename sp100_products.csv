@@ -1,0 +1,101 @@
+Ticker,Company,Context
+AAPL,Apple Inc.,"['iPhone', 'Mac', 'iPad', 'Apple Watch', 'AirPods']"
+ABBV,AbbVie Inc.,"['Humira', 'Rinvoq', 'Skyrizi', 'Imbruvica', 'Venclexta']"
+ABT,Abbott Laboratories,[]
+ACN,Accenture plc,[]
+ADBE,Adobe Inc.,[]
+AIG,American International Group,[]
+AMD,Advanced Micro Devices,[]
+AMGN,Amgen Inc.,[]
+AMT,American Tower Corp.,[]
+AMZN,Amazon.com Inc.,"['AWS', 'Prime', 'Kindle', 'Echo', 'Fire TV']"
+AVGO,Broadcom Inc.,[]
+AXP,American Express Co.,[]
+BA,Boeing Co.,"['737', '787 Dreamliner', '777', 'Starliner', 'AH-64 Apache']"
+BAC,Bank of America Corp.,"['Merrill Edge', 'Erica', 'Preferred Rewards', 'SafeBalance', 'Cash Rewards']"
+BK,Bank of New York Mellon,[]
+BKNG,Booking Holdings Inc.,[]
+BLK,BlackRock Inc.,[]
+BMY,Bristol-Myers Squibb,[]
+BRK.B,Berkshire Hathaway (Class B),[]
+C,Citigroup Inc.,[]
+CAT,Caterpillar Inc.,[]
+CHTR,Charter Communications,[]
+CL,Colgate-Palmolive,[]
+CMCSA,Comcast Corp.,[]
+COF,Capital One Financial,[]
+COP,ConocoPhillips,[]
+COST,Costco Wholesale,"['Kirkland Signature', 'Kirkland Wine', 'Kirkland Batteries', 'Kirkland Vodka', 'Kirkland Coffee']"
+CRM,Salesforce Inc.,"['Sales Cloud', 'Service Cloud', 'Marketing Cloud', 'Tableau', 'Slack']"
+CSCO,Cisco Systems,"['Catalyst', 'Meraki', 'Webex', 'UCS', 'ThousandEyes']"
+CVS,CVS Health Corp.,"['MinuteClinic', 'CarePass', 'CVS Pharmacy App', 'ExtraCare', 'HealthHUB']"
+CVX,Chevron Corp.,"['Techron', 'Caltex', 'Delo', 'Havoline', 'Chevron Renewable Energy']"
+DE,Deere & Company,[]
+DHR,Danaher Corp.,[]
+DIS,Walt Disney Co.,"['Disney+', 'Hulu', 'ESPN+', 'Star Wars', 'Marvel Studios']"
+DUK,Duke Energy Corp.,[]
+EMR,Emerson Electric,[]
+FDX,FedEx Corp.,[]
+GD,General Dynamics,[]
+GE,GE Aerospace,"['LEAP Engine', 'GE9X', 'HA Gas Turbine', 'Haliade-X', 'ReCell Center']"
+GILD,Gilead Sciences,[]
+GM,General Motors,[]
+GOOGL,Alphabet Inc. (Class A),"['Search', 'YouTube', 'Android', 'Pixel', 'Chrome']"
+GS,Goldman Sachs Group,[]
+HD,Home Depot,"['Husky', 'Behr Paint', 'HDX', 'Ryobi', 'Glacier Bay']"
+HON,Honeywell International,[]
+IBM,IBM Corp.,[]
+INTC,Intel Corp.,"['Core i9', 'Xeon', 'Arc GPU', 'Intel NUC', 'Atom']"
+INTU,Intuit Inc.,[]
+ISRG,Intuitive Surgical,[]
+JNJ,Johnson & Johnson,"['Tylenol', 'Band-Aid', 'Listerine', 'Neutrogena', 'Aveeno']"
+JPM,JPMorgan Chase,"['Chase Sapphire', 'QuickPay', 'Ink', 'Freedom Unlimited', 'You Invest']"
+KO,Coca-Cola Co.,"['Coca-Cola', 'Sprite', 'Fanta', 'Minute Maid', 'Smartwater']"
+LIN,Linde plc,[]
+LLY,Eli Lilly & Co.,"['Mounjaro', 'Trulicity', 'Zepbound', 'Humalog', 'Cymbalta']"
+LMT,Lockheed Martin,"['F-35', 'THAAD', 'Aegis', 'C-130', 'Javelin']"
+LOW,Lowe’s Companies,[]
+MA,Mastercard Inc.,"['Mastercard Send', 'Masterpass', 'World Elite', 'PayPass', 'SecureCode']"
+MCD,McDonald’s Corp.,"['Big Mac', 'Happy Meal', 'McFlurry', 'McCafé', 'Egg McMuffin']"
+MDLZ,Mondelez International,[]
+MDT,Medtronic plc,[]
+MET,MetLife Inc.,[]
+META,Meta Platforms,"['Facebook', 'Instagram', 'WhatsApp', 'Quest', 'Threads']"
+MMM,3M Company,"['Post-it', 'Scotch Tape', 'Command Strips', 'Filtrete', 'Peltor']"
+MO,Altria Group,[]
+MRK,Merck & Co.,[]
+MS,Morgan Stanley,[]
+MSFT,Microsoft Corp.,"['Windows', 'Azure', 'Office', 'Xbox', 'Surface']"
+NEE,NextEra Energy,[]
+NFLX,Netflix Inc.,"['Netflix', 'One Piece', 'Stranger Things', 'The Crown', 'Bridgerton']"
+NKE,Nike Inc.,"['Air Jordan', 'Air Max', 'Nike Dunk', 'Flyknit', 'Pegasus']"
+NOW,ServiceNow Inc.,[]
+NVDA,NVIDIA Corp.,"['GeForce RTX', 'CUDA', 'Jetson', 'Omniverse', 'DLSS']"
+ORCL,Oracle Corp.,"['Oracle Database', 'Java', 'MySQL', 'PeopleSoft', 'Fusion Cloud']"
+PEP,PepsiCo Inc.,"['Pepsi', 'Gatorade', ""Lay's"", 'Mountain Dew', 'Doritos']"
+PFE,Pfizer Inc.,"['Comirnaty', 'Prevnar', 'Ibrance', 'Xeljanz', 'Vyndaqel']"
+PG,Procter & Gamble,"['Tide', 'Gillette', 'Pampers', 'Oral-B', 'Head & Shoulders']"
+PLTR,Palantir Technologies,[]
+PM,Philip Morris International,[]
+PYPL,PayPal Holdings,"['PayPal', 'Venmo', 'Xoom', 'Braintree', 'PayPal Credit']"
+QCOM,Qualcomm Inc.,"['Snapdragon 8', 'Snapdragon 7', 'FastConnect', 'X65 Modem', 'Quick Charge']"
+RTX,RTX Corporation,[]
+SBUX,Starbucks Corp.,[]
+SCHW,Charles Schwab,[]
+SO,Southern Company,[]
+SPG,Simon Property Group,[]
+T,AT&T Inc.,[]
+TGT,Target Corp.,[]
+TMO,Thermo Fisher Scientific,[]
+TMUS,T-Mobile US,[]
+TSLA,Tesla Inc.,"['Model 3', 'Model Y', 'Supercharger', 'Cybertruck', 'Powerwall']"
+TXN,Texas Instruments,[]
+UNH,UnitedHealth Group,[]
+UNP,Union Pacific Corp.,[]
+UPS,United Parcel Service,[]
+USB,U.S. Bancorp,[]
+V,Visa Inc.,"['Visa Direct', 'Visa Checkout', 'Visa Infinite', 'Visa Signature', 'Secure Remote Commerce']"
+VZ,Verizon Communications,[]
+WFC,Wells Fargo & Co.,[]
+WMT,Walmart Inc.,"['Great Value', ""Sam's Choice"", 'Equate', 'Onn', 'Mainstays']"
+XOM,Exxon Mobil Corp.,"['Mobil 1', 'Synergy Fuel', 'Esso Card', 'Speedpass+', 'Exxon Mobil Rewards+']"

@@ -1,0 +1,101 @@
+Ticker,Company,Context
+AAPL,Apple Inc.,"['iPhone', 'Mac', 'iPad', 'Apple Watch', 'iOS']"
+ABBV,AbbVie Inc.,"['Humira', 'Skyrizi', 'Rinvoq', 'immunology', 'pharmaceuticals']"
+ABT,Abbott Laboratories,[]
+ACN,Accenture plc,[]
+ADBE,Adobe Inc.,[]
+AIG,American International Group,[]
+AMD,Advanced Micro Devices,[]
+AMGN,Amgen Inc.,[]
+AMT,American Tower Corp.,[]
+AMZN,Amazon.com Inc.,"['e-commerce', 'AWS', 'Prime', 'Kindle', 'streaming']"
+AVGO,Broadcom Inc.,[]
+AXP,American Express Co.,[]
+BA,Boeing Co.,"['airplanes', 'Boeing 737', 'aerospace', 'defense', 'space']"
+BAC,Bank of America Corp.,"['banking', 'loans', 'credit cards', 'Merrill', 'finance']"
+BK,Bank of New York Mellon,[]
+BKNG,Booking Holdings Inc.,[]
+BLK,BlackRock Inc.,[]
+BMY,Bristol-Myers Squibb,[]
+BRK.B,Berkshire Hathaway (Class B),[]
+C,Citigroup Inc.,[]
+CAT,Caterpillar Inc.,[]
+CHTR,Charter Communications,[]
+CL,Colgate-Palmolive,[]
+CMCSA,Comcast Corp.,[]
+COF,Capital One Financial,[]
+COP,ConocoPhillips,[]
+COST,Costco Wholesale,[]
+CRM,Salesforce Inc.,[]
+CSCO,Cisco Systems,[]
+CVS,CVS Health Corp.,"['pharmacy', 'CVS', 'MinuteClinic', 'health', 'retail']"
+CVX,Chevron Corp.,"['Chevron', 'oil', 'gas', 'energy', 'upstream']"
+DE,Deere & Company,[]
+DHR,Danaher Corp.,[]
+DIS,Walt Disney Co.,"['Disney', 'Disney+', 'theme parks', 'movies', 'entertainment']"
+DUK,Duke Energy Corp.,[]
+EMR,Emerson Electric,[]
+FDX,FedEx Corp.,[]
+GD,General Dynamics,[]
+GE,GE Aerospace,[]
+GILD,Gilead Sciences,[]
+GM,General Motors,[]
+GOOGL,Alphabet Inc. (Class A),"['Google', 'Search', 'YouTube', 'Android', 'Cloud']"
+GS,Goldman Sachs Group,[]
+HD,Home Depot,"['Home Depot', 'DIY', 'home improvement', 'retail', 'construction']"
+HON,Honeywell International,[]
+IBM,IBM Corp.,[]
+INTC,Intel Corp.,[]
+INTU,Intuit Inc.,[]
+ISRG,Intuitive Surgical,[]
+JNJ,Johnson & Johnson,[]
+JPM,JPMorgan Chase,"['JPMorgan', 'banking', 'investment bank', 'Chase', 'finance']"
+KO,Coca-Cola Co.,"['Coca-Cola', 'beverages', 'soft drinks', 'Sprite', 'Fanta']"
+LIN,Linde plc,[]
+LLY,Eli Lilly & Co.,"['Eli Lilly', 'Mounjaro', 'Trulicity', 'pharma', 'diabetes']"
+LMT,Lockheed Martin,"['F-35', 'defense', 'missiles', 'aerospace', 'space']"
+LOW,Lowe's Companies,[]
+MA,Mastercard Inc.,"['Mastercard', 'payments', 'credit cards', 'network', 'fintech']"
+MCD,McDonald's Corp.,[]
+MDLZ,Mondelez International,[]
+MDT,Medtronic plc,[]
+MET,MetLife Inc.,[]
+META,Meta Platforms,"['Facebook', 'Instagram', 'WhatsApp', 'VR', 'social media']"
+MMM,3M Company,[]
+MO,Altria Group,[]
+MRK,Merck & Co.,[]
+MS,Morgan Stanley,[]
+MSFT,Microsoft Corp.,"['Windows', 'Azure', 'Office', 'Xbox', 'cloud']"
+NEE,NextEra Energy,[]
+NFLX,Netflix Inc.,[]
+NKE,Nike Inc.,"['Nike', 'athletic apparel', 'shoes', 'Air Jordan', 'sportswear']"
+NOW,ServiceNow Inc.,[]
+NVDA,NVIDIA Corp.,"['NVIDIA', 'GPU', 'AI', 'graphics', 'chips']"
+ORCL,Oracle Corp.,[]
+PEP,PepsiCo Inc.,"['Pepsi', 'snacks', 'Gatorade', ""Lay's"", 'beverages']"
+PFE,Pfizer Inc.,"['Pfizer', 'vaccines', 'pharma', 'COVID-19', 'oncology']"
+PG,Procter & Gamble,[]
+PLTR,Palantir Technologies,[]
+PM,Philip Morris International,[]
+PYPL,PayPal Holdings,"['PayPal', 'Venmo', 'payments', 'fintech', 'digital wallets']"
+QCOM,Qualcomm Inc.,"['Qualcomm', 'Snapdragon', '5G', 'chips', 'modems']"
+RTX,RTX Corporation,[]
+SBUX,Starbucks Corp.,[]
+SCHW,Charles Schwab,[]
+SO,Southern Company,[]
+SPG,Simon Property Group,[]
+T,AT&T Inc.,[]
+TGT,Target Corp.,[]
+TMO,Thermo Fisher Scientific,[]
+TMUS,T-Mobile US,[]
+TSLA,Tesla Inc.,"['Tesla', 'EVs', 'Model 3', 'Supercharger', 'Gigafactory']"
+TXN,Texas Instruments,[]
+UNH,UnitedHealth Group,[]
+UNP,Union Pacific Corp.,[]
+UPS,United Parcel Service,[]
+USB,U.S. Bancorp,[]
+V,Visa Inc.,"['Visa', 'payments', 'credit cards', 'network', 'debit']"
+VZ,Verizon Communications,[]
+WFC,Wells Fargo & Co.,[]
+WMT,Walmart Inc.,"['Walmart', 'retail', 'supercenter', 'groceries', 'e-commerce']"
+XOM,Exxon Mobil Corp.,"['ExxonMobil', 'oil', 'gas', 'energy', 'upstream']"
